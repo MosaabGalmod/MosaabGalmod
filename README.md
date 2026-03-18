@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/muhammad-mosaab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Mosaab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:contact@m0sab.com">
-    <img src="https://img.shields.io/badge/Email-contact@m0sab.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:eng.galmod@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eng.galmod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
